@@ -1,14 +1,14 @@
 # Phone Format E.164
 
-A Python utility for managing international phone number formats according to the E.164 standard.
+A Python utility for managing international phone number formats according to the E.164 standard, using the naming convention for countries approved by the Government of Canada
 
 ## Features
 
 - Dynamically fetches up-to-date phone number formats from Google's libphonenumber library
-- Includes Government of Canada country codes (ISO, GC_ID, English and French abbreviations)
+- Includes Government of Canada country codes (ISO, GC_ID, English and French names)
 - Provides maximum digit length for each country
 - Generates regex patterns for validation
-- Outputs data in UTF-8 encoded JSON format with proper accent support
+- Outputs data in UTF-8 encoded JSON format with proper accent support (UTF-08)
 
 ## Usage
 
