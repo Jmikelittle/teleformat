@@ -1,0 +1,2446 @@
+{
+  "KI": {
+    "country_code": "686",
+    "max_length": 8,
+    "example_format": "+686 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+686\\d{8}$",
+    "GC_ID": "10005",
+    "GC_NM_AB_EN": "Kiribati",
+    "GC_NM_AB_FR": "Kiribati"
+  },
+  "SO": {
+    "country_code": "252",
+    "max_length": 9,
+    "example_format": "+252 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+252\\d{9}$",
+    "GC_ID": "10155",
+    "GC_NM_AB_EN": "Somalia",
+    "GC_NM_AB_FR": "Somalie"
+  },
+  "MZ": {
+    "country_code": "258",
+    "max_length": 9,
+    "example_format": "+258 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+258\\d{9}$",
+    "GC_ID": "10202",
+    "GC_NM_AB_EN": "Mozambique",
+    "GC_NM_AB_FR": "Mozambique"
+  },
+  "ML": {
+    "country_code": "223",
+    "max_length": 8,
+    "example_format": "+223 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+223\\d{8}$",
+    "GC_ID": "10023",
+    "GC_NM_AB_EN": "Mali",
+    "GC_NM_AB_FR": "Mali"
+  },
+  "BJ": {
+    "country_code": "229",
+    "max_length": 10,
+    "example_format": "+229 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+229\\d{10}$",
+    "GC_ID": "10012",
+    "GC_NM_AB_EN": "Benin",
+    "GC_NM_AB_FR": "Bénin"
+  },
+  "LA": {
+    "country_code": "856",
+    "max_length": 10,
+    "example_format": "+856 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+856\\d{10}$",
+    "GC_ID": "10164",
+    "GC_NM_AB_EN": "Laos",
+    "GC_NM_AB_FR": "Laos"
+  },
+  "AW": {
+    "country_code": "297",
+    "max_length": 7,
+    "example_format": "+297 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+297\\d{7}$",
+    "GC_ID": "10136",
+    "GC_NM_AB_EN": "Aruba",
+    "GC_NM_AB_FR": "Aruba"
+  },
+  "CY": {
+    "country_code": "357",
+    "max_length": 8,
+    "example_format": "+357 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+357\\d{8}$",
+    "GC_ID": "10248",
+    "GC_NM_AB_EN": "Cyprus",
+    "GC_NM_AB_FR": "Chypre"
+  },
+  "NR": {
+    "country_code": "674",
+    "max_length": 7,
+    "example_format": "+674 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+674\\d{7}$",
+    "GC_ID": "10249",
+    "GC_NM_AB_EN": "Nauru",
+    "GC_NM_AB_FR": "Nauru"
+  },
+  "TC": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10203",
+    "GC_NM_AB_EN": "Turks and Caicos Islands",
+    "GC_NM_AB_FR": "Turks-et-Caïcos (les Îles)"
+  },
+  "CG": {
+    "country_code": "242",
+    "max_length": 9,
+    "example_format": "+242 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+242\\d{9}$",
+    "GC_ID": "10166",
+    "GC_NM_AB_EN": "Congo",
+    "GC_NM_AB_FR": "Congo"
+  },
+  "US": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10194",
+    "GC_NM_AB_EN": "United States",
+    "GC_NM_AB_FR": "États-Unis"
+  },
+  "TG": {
+    "country_code": "228",
+    "max_length": 8,
+    "example_format": "+228 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+228\\d{8}$",
+    "GC_ID": "10039",
+    "GC_NM_AB_EN": "Togo",
+    "GC_NM_AB_FR": "Togo"
+  },
+  "VU": {
+    "country_code": "678",
+    "max_length": 7,
+    "example_format": "+678 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+678\\d{7}$",
+    "GC_ID": "10281",
+    "GC_NM_AB_EN": "Vanuatu",
+    "GC_NM_AB_FR": "Vanuatu"
+  },
+  "MN": {
+    "country_code": "976",
+    "max_length": 10,
+    "example_format": "+976 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+976\\d{10}$",
+    "GC_ID": "10064",
+    "GC_NM_AB_EN": "Mongolia",
+    "GC_NM_AB_FR": "Mongolie"
+  },
+  "CM": {
+    "country_code": "237",
+    "max_length": 9,
+    "example_format": "+237 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+237\\d{9}$",
+    "GC_ID": "10088",
+    "GC_NM_AB_EN": "Cameroon",
+    "GC_NM_AB_FR": "Cameroun"
+  },
+  "MR": {
+    "country_code": "222",
+    "max_length": 8,
+    "example_format": "+222 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+222\\d{8}$",
+    "GC_ID": "10165",
+    "GC_NM_AB_EN": "Mauritania",
+    "GC_NM_AB_FR": "Mauritanie"
+  },
+  "PA": {
+    "country_code": "507",
+    "max_length": 11,
+    "example_format": "+507 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+507\\d{11}$",
+    "GC_ID": "10193",
+    "GC_NM_AB_EN": "Panama",
+    "GC_NM_AB_FR": "Panama"
+  },
+  "AI": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10216",
+    "GC_NM_AB_EN": "Anguilla",
+    "GC_NM_AB_FR": "Anguilla"
+  },
+  "ES": {
+    "country_code": "34",
+    "max_length": 9,
+    "example_format": "+34 XXX XXX XXX",
+    "total_max_digits": 11,
+    "regex": "^\\+34\\d{9}$",
+    "GC_ID": "10143",
+    "GC_NM_AB_EN": "Spain",
+    "GC_NM_AB_FR": "Espagne"
+  },
+  "TA": {
+    "country_code": "290",
+    "max_length": 4,
+    "example_format": "+290 XXXX",
+    "total_max_digits": 7,
+    "regex": "^\\+290\\d{4}$"
+  },
+  "BN": {
+    "country_code": "673",
+    "max_length": 7,
+    "example_format": "+673 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+673\\d{7}$",
+    "GC_ID": "10204",
+    "GC_NM_AB_EN": "Brunei",
+    "GC_NM_AB_FR": "Brunéi"
+  },
+  "QA": {
+    "country_code": "974",
+    "max_length": 11,
+    "example_format": "+974 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+974\\d{11}$",
+    "GC_ID": "10076",
+    "GC_NM_AB_EN": "Qatar",
+    "GC_NM_AB_FR": "Qatar"
+  },
+  "RE": {
+    "country_code": "262",
+    "max_length": 9,
+    "example_format": "+262 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+262\\d{9}$",
+    "GC_ID": "10124",
+    "GC_NM_AB_EN": "Reunion",
+    "GC_NM_AB_FR": "Réunion (La)"
+  },
+  "MQ": {
+    "country_code": "596",
+    "max_length": 9,
+    "example_format": "+596 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+596\\d{9}$",
+    "GC_ID": "10251",
+    "GC_NM_AB_EN": "Martinique",
+    "GC_NM_AB_FR": "Martinique"
+  },
+  "KW": {
+    "country_code": "965",
+    "max_length": 8,
+    "example_format": "+965 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+965\\d{8}$",
+    "GC_ID": "10009",
+    "GC_NM_AB_EN": "Kuwait",
+    "GC_NM_AB_FR": "Koweït"
+  },
+  "GG": {
+    "country_code": "44",
+    "max_length": 10,
+    "example_format": "+44 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+44\\d{10}$",
+    "GC_ID": "10259",
+    "GC_NM_AB_EN": "Guernsey",
+    "GC_NM_AB_FR": "Guernesey"
+  },
+  "NI": {
+    "country_code": "505",
+    "max_length": 8,
+    "example_format": "+505 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+505\\d{8}$",
+    "GC_ID": "10021",
+    "GC_NM_AB_EN": "Nicaragua",
+    "GC_NM_AB_FR": "Nicaragua"
+  },
+  "EE": {
+    "country_code": "372",
+    "max_length": 10,
+    "example_format": "+372 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+372\\d{10}$",
+    "GC_ID": "10220",
+    "GC_NM_AB_EN": "Estonia",
+    "GC_NM_AB_FR": "Estonie"
+  },
+  "JP": {
+    "country_code": "81",
+    "max_length": 17,
+    "example_format": "+81 XXX XXX XXXXXXXXXXX",
+    "total_max_digits": 19,
+    "regex": "^\\+81\\d{17}$",
+    "GC_ID": "10212",
+    "GC_NM_AB_EN": "Japan",
+    "GC_NM_AB_FR": "Japon"
+  },
+  "CN": {
+    "country_code": "86",
+    "max_length": 12,
+    "example_format": "+86 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+86\\d{12}$",
+    "GC_ID": "10003",
+    "GC_NM_AB_EN": "China",
+    "GC_NM_AB_FR": "Chine"
+  },
+  "GL": {
+    "country_code": "299",
+    "max_length": 6,
+    "example_format": "+299 XXX XXX",
+    "total_max_digits": 9,
+    "regex": "^\\+299\\d{6}$",
+    "GC_ID": "10182",
+    "GC_NM_AB_EN": "Greenland",
+    "GC_NM_AB_FR": "Groenland (le)"
+  },
+  "DJ": {
+    "country_code": "253",
+    "max_length": 8,
+    "example_format": "+253 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+253\\d{8}$",
+    "GC_ID": "10233",
+    "GC_NM_AB_EN": "Djibouti",
+    "GC_NM_AB_FR": "Djibouti"
+  },
+  "MX": {
+    "country_code": "52",
+    "max_length": 10,
+    "example_format": "+52 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+52\\d{10}$",
+    "GC_ID": "10170",
+    "GC_NM_AB_EN": "Mexico",
+    "GC_NM_AB_FR": "Mexique"
+  },
+  "GW": {
+    "country_code": "245",
+    "max_length": 9,
+    "example_format": "+245 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+245\\d{9}$",
+    "GC_ID": "10190",
+    "GC_NM_AB_EN": "Guinea-Bissau",
+    "GC_NM_AB_FR": "Guinée-Bissau"
+  },
+  "ZM": {
+    "country_code": "260",
+    "max_length": 9,
+    "example_format": "+260 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+260\\d{9}$",
+    "GC_ID": "10040",
+    "GC_NM_AB_EN": "Zambia",
+    "GC_NM_AB_FR": "Zambie"
+  },
+  "FO": {
+    "country_code": "298",
+    "max_length": 6,
+    "example_format": "+298 XXX XXX",
+    "total_max_digits": 9,
+    "regex": "^\\+298\\d{6}$",
+    "GC_ID": "10121",
+    "GC_NM_AB_EN": "Faroe Islands",
+    "GC_NM_AB_FR": "Îles Féroé"
+  },
+  "IR": {
+    "country_code": "98",
+    "max_length": 10,
+    "example_format": "+98 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+98\\d{10}$",
+    "GC_ID": "10254",
+    "GC_NM_AB_EN": "Iran",
+    "GC_NM_AB_FR": "Iran"
+  },
+  "SD": {
+    "country_code": "249",
+    "max_length": 9,
+    "example_format": "+249 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+249\\d{9}$",
+    "GC_ID": "10036",
+    "GC_NM_AB_EN": "Sudan",
+    "GC_NM_AB_FR": "Soudan"
+  },
+  "FI": {
+    "country_code": "358",
+    "max_length": 12,
+    "example_format": "+358 XXX XXX XXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+358\\d{12}$",
+    "GC_ID": "10144",
+    "GC_NM_AB_EN": "Finland",
+    "GC_NM_AB_FR": "Finlande"
+  },
+  "MS": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10211",
+    "GC_NM_AB_EN": "Montserrat",
+    "GC_NM_AB_FR": "Montserrat"
+  },
+  "MM": {
+    "country_code": "95",
+    "max_length": 10,
+    "example_format": "+95 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+95\\d{10}$",
+    "GC_ID": "10101",
+    "GC_NM_AB_EN": "Myanmar",
+    "GC_NM_AB_FR": "Myanmar"
+  },
+  "SC": {
+    "country_code": "248",
+    "max_length": 7,
+    "example_format": "+248 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+248\\d{7}$",
+    "GC_ID": "10008",
+    "GC_NM_AB_EN": "Seychelles",
+    "GC_NM_AB_FR": "Seychelles"
+  },
+  "KN": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10122",
+    "GC_NM_AB_EN": "Saint Kitts and Nevis",
+    "GC_NM_AB_FR": "Saint-Kitts-et-Nevis"
+  },
+  "BH": {
+    "country_code": "973",
+    "max_length": 8,
+    "example_format": "+973 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+973\\d{8}$",
+    "GC_ID": "10107",
+    "GC_NM_AB_EN": "Bahrain",
+    "GC_NM_AB_FR": "Bahreïn"
+  },
+  "OM": {
+    "country_code": "968",
+    "max_length": 9,
+    "example_format": "+968 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+968\\d{9}$",
+    "GC_ID": "10229",
+    "GC_NM_AB_EN": "Oman",
+    "GC_NM_AB_FR": "Oman"
+  },
+  "TZ": {
+    "country_code": "255",
+    "max_length": 9,
+    "example_format": "+255 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+255\\d{9}$",
+    "GC_ID": "10127",
+    "GC_NM_AB_EN": "Tanzania",
+    "GC_NM_AB_FR": "Tanzanie"
+  },
+  "LB": {
+    "country_code": "961",
+    "max_length": 8,
+    "example_format": "+961 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+961\\d{8}$",
+    "GC_ID": "10263",
+    "GC_NM_AB_EN": "Lebanon",
+    "GC_NM_AB_FR": "Liban"
+  },
+  "FM": {
+    "country_code": "691",
+    "max_length": 7,
+    "example_format": "+691 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+691\\d{7}$",
+    "GC_ID": "10067",
+    "GC_NM_AB_EN": "Micronesia",
+    "GC_NM_AB_FR": "Micronésie"
+  },
+  "GY": {
+    "country_code": "592",
+    "max_length": 7,
+    "example_format": "+592 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+592\\d{7}$",
+    "GC_ID": "10180",
+    "GC_NM_AB_EN": "British Guiana",
+    "GC_NM_AB_FR": "Guyane britannique"
+  },
+  "AU": {
+    "country_code": "61",
+    "max_length": 12,
+    "example_format": "+61 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+61\\d{12}$",
+    "GC_ID": "10274",
+    "GC_NM_AB_EN": "Australia",
+    "GC_NM_AB_FR": "Australie"
+  },
+  "BR": {
+    "country_code": "55",
+    "max_length": 11,
+    "example_format": "+55 XXX XXX XXXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+55\\d{11}$",
+    "GC_ID": "10134",
+    "GC_NM_AB_EN": "Brazil",
+    "GC_NM_AB_FR": "Brésil"
+  },
+  "NF": {
+    "country_code": "672",
+    "max_length": 6,
+    "example_format": "+672 XXX XXX",
+    "total_max_digits": 9,
+    "regex": "^\\+672\\d{6}$",
+    "GC_ID": "10068",
+    "GC_NM_AB_EN": "Norfolk Island",
+    "GC_NM_AB_FR": "Norfolk (l’Île)"
+  },
+  "TK": {
+    "country_code": "690",
+    "max_length": 7,
+    "example_format": "+690 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+690\\d{7}$",
+    "GC_ID": "10119",
+    "GC_NM_AB_EN": "Tokelau",
+    "GC_NM_AB_FR": "Tokelau"
+  },
+  "TD": {
+    "country_code": "235",
+    "max_length": 8,
+    "example_format": "+235 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+235\\d{8}$",
+    "GC_ID": "10033",
+    "GC_NM_AB_EN": "Chad",
+    "GC_NM_AB_FR": "Tchad"
+  },
+  "FR": {
+    "country_code": "33",
+    "max_length": 9,
+    "example_format": "+33 XXX XXX XXX",
+    "total_max_digits": 11,
+    "regex": "^\\+33\\d{9}$",
+    "GC_ID": "10006",
+    "GC_NM_AB_EN": "France",
+    "GC_NM_AB_FR": "France"
+  },
+  "NP": {
+    "country_code": "977",
+    "max_length": 11,
+    "example_format": "+977 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+977\\d{11}$",
+    "GC_ID": "10025",
+    "GC_NM_AB_EN": "Nepal",
+    "GC_NM_AB_FR": "Népal"
+  },
+  "PK": {
+    "country_code": "92",
+    "max_length": 12,
+    "example_format": "+92 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+92\\d{12}$",
+    "GC_ID": "10226",
+    "GC_NM_AB_EN": "Pakistan",
+    "GC_NM_AB_FR": "Pakistan"
+  },
+  "SG": {
+    "country_code": "65",
+    "max_length": 11,
+    "example_format": "+65 XXX XXX XXXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+65\\d{11}$",
+    "GC_ID": "10015",
+    "GC_NM_AB_EN": "Singapore",
+    "GC_NM_AB_FR": "Singapour"
+  },
+  "PS": {
+    "country_code": "970",
+    "max_length": 10,
+    "example_format": "+970 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+970\\d{10}$",
+    "GC_ID": "10126",
+    "GC_NM_AB_EN": "West Bank and Gaza",
+    "GC_NM_AB_FR": "Cisjordanie et Gaza"
+  },
+  "MH": {
+    "country_code": "692",
+    "max_length": 7,
+    "example_format": "+692 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+692\\d{7}$",
+    "GC_ID": "10262",
+    "GC_NM_AB_EN": "Marshall Islands",
+    "GC_NM_AB_FR": "Îles Marshall"
+  },
+  "DO": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10247",
+    "GC_NM_AB_EN": "Dominican Republic",
+    "GC_NM_AB_FR": "République dominicaine"
+  },
+  "TJ": {
+    "country_code": "992",
+    "max_length": 9,
+    "example_format": "+992 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+992\\d{9}$",
+    "GC_ID": "10140",
+    "GC_NM_AB_EN": "Tajikistan",
+    "GC_NM_AB_FR": "Tadjikistan"
+  },
+  "KM": {
+    "country_code": "269",
+    "max_length": 7,
+    "example_format": "+269 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+269\\d{7}$",
+    "GC_ID": "10160",
+    "GC_NM_AB_EN": "Comoros",
+    "GC_NM_AB_FR": "Comores"
+  },
+  "PY": {
+    "country_code": "595",
+    "max_length": 11,
+    "example_format": "+595 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+595\\d{11}$",
+    "GC_ID": "10028",
+    "GC_NM_AB_EN": "Paraguay",
+    "GC_NM_AB_FR": "Paraguay"
+  },
+  "GF": {
+    "country_code": "594",
+    "max_length": 9,
+    "example_format": "+594 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+594\\d{9}$",
+    "GC_ID": "10239",
+    "GC_NM_AB_EN": "French Guiana",
+    "GC_NM_AB_FR": "Guyane française"
+  },
+  "EC": {
+    "country_code": "593",
+    "max_length": 11,
+    "example_format": "+593 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+593\\d{11}$",
+    "GC_ID": "10195",
+    "GC_NM_AB_EN": "Ecuador",
+    "GC_NM_AB_FR": "Équateur"
+  },
+  "YE": {
+    "country_code": "967",
+    "max_length": 9,
+    "example_format": "+967 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+967\\d{9}$",
+    "GC_ID": "10055",
+    "GC_NM_AB_EN": "Yemen",
+    "GC_NM_AB_FR": "Yémen"
+  },
+  "KH": {
+    "country_code": "855",
+    "max_length": 10,
+    "example_format": "+855 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+855\\d{10}$",
+    "GC_ID": "10063",
+    "GC_NM_AB_EN": "Cambodia",
+    "GC_NM_AB_FR": "Cambodge"
+  },
+  "NE": {
+    "country_code": "227",
+    "max_length": 8,
+    "example_format": "+227 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+227\\d{8}$",
+    "GC_ID": "10081",
+    "GC_NM_AB_EN": "Niger",
+    "GC_NM_AB_FR": "Niger"
+  },
+  "UG": {
+    "country_code": "256",
+    "max_length": 9,
+    "example_format": "+256 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+256\\d{9}$",
+    "GC_ID": "10047",
+    "GC_NM_AB_EN": "Uganda",
+    "GC_NM_AB_FR": "Ouganda"
+  },
+  "BE": {
+    "country_code": "32",
+    "max_length": 9,
+    "example_format": "+32 XXX XXX XXX",
+    "total_max_digits": 11,
+    "regex": "^\\+32\\d{9}$",
+    "GC_ID": "10227",
+    "GC_NM_AB_EN": "Belgium",
+    "GC_NM_AB_FR": "Belgique"
+  },
+  "FK": {
+    "country_code": "500",
+    "max_length": 5,
+    "example_format": "+500 XXX XX",
+    "total_max_digits": 8,
+    "regex": "^\\+500\\d{5}$",
+    "GC_ID": "10183",
+    "GC_NM_AB_EN": "Falkland Islands",
+    "GC_NM_AB_FR": "Falkland (les Îles)/Malouines (les Îles"
+  },
+  "PM": {
+    "country_code": "508",
+    "max_length": 9,
+    "example_format": "+508 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+508\\d{9}$",
+    "GC_ID": "10173",
+    "GC_NM_AB_EN": "Saint Pierre and Miquelon (French Republic)",
+    "GC_NM_AB_FR": "Saint-Pierre-et-Miquelon (République française)"
+  },
+  "MT": {
+    "country_code": "356",
+    "max_length": 8,
+    "example_format": "+356 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+356\\d{8}$",
+    "GC_ID": "10106",
+    "GC_NM_AB_EN": "Malta",
+    "GC_NM_AB_FR": "Malte"
+  },
+  "PW": {
+    "country_code": "680",
+    "max_length": 7,
+    "example_format": "+680 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+680\\d{7}$",
+    "GC_ID": "10231",
+    "GC_NM_AB_EN": "Palau",
+    "GC_NM_AB_FR": "Palaos"
+  },
+  "BT": {
+    "country_code": "975",
+    "max_length": 8,
+    "example_format": "+975 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+975\\d{8}$",
+    "GC_ID": "10053",
+    "GC_NM_AB_EN": "Bhutan",
+    "GC_NM_AB_FR": "Bhoutan"
+  },
+  "AC": {
+    "country_code": "247",
+    "max_length": 6,
+    "example_format": "+247 XXX XXX",
+    "total_max_digits": 9,
+    "regex": "^\\+247\\d{6}$"
+  },
+  "WF": {
+    "country_code": "681",
+    "max_length": 9,
+    "example_format": "+681 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+681\\d{9}$",
+    "GC_ID": "10279",
+    "GC_NM_AB_EN": "Wallis and Futuna (French Republic)",
+    "GC_NM_AB_FR": "Wallis-et-Futuna (République française)"
+  },
+  "AS": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10111",
+    "GC_NM_AB_EN": "American Samoa",
+    "GC_NM_AB_FR": "Samoa américaines"
+  },
+  "SN": {
+    "country_code": "221",
+    "max_length": 9,
+    "example_format": "+221 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+221\\d{9}$",
+    "GC_ID": "10243",
+    "GC_NM_AB_EN": "Senegal",
+    "GC_NM_AB_FR": "Sénégal"
+  },
+  "GQ": {
+    "country_code": "240",
+    "max_length": 9,
+    "example_format": "+240 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+240\\d{9}$",
+    "GC_ID": "10258",
+    "GC_NM_AB_EN": "Equatorial Guinea",
+    "GC_NM_AB_FR": "Guinée équatoriale"
+  },
+  "HU": {
+    "country_code": "36",
+    "max_length": 9,
+    "example_format": "+36 XXX XXX XXX",
+    "total_max_digits": 11,
+    "regex": "^\\+36\\d{9}$",
+    "GC_ID": "10043",
+    "GC_NM_AB_EN": "Hungary",
+    "GC_NM_AB_FR": "Hongrie"
+  },
+  "HK": {
+    "country_code": "852",
+    "max_length": 11,
+    "example_format": "+852 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+852\\d{11}$",
+    "GC_ID": "10070",
+    "GC_NM_AB_EN": "Hong Kong",
+    "GC_NM_AB_FR": "Hong Kong"
+  },
+  "KR": {
+    "country_code": "82",
+    "max_length": 14,
+    "example_format": "+82 XXX XXX XXXXXXXX",
+    "total_max_digits": 16,
+    "regex": "^\\+82\\d{14}$",
+    "GC_ID": "10113",
+    "GC_NM_AB_EN": "Republic of Korea",
+    "GC_NM_AB_FR": "République de Corée"
+  },
+  "CW": {
+    "country_code": "599",
+    "max_length": 8,
+    "example_format": "+599 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+599\\d{8}$",
+    "GC_ID": "10045",
+    "GC_NM_AB_EN": "Curaçao",
+    "GC_NM_AB_FR": "Curaçao"
+  },
+  "BS": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10152",
+    "GC_NM_AB_EN": "Bahamas (The)",
+    "GC_NM_AB_FR": "Bahamas"
+  },
+  "GE": {
+    "country_code": "995",
+    "max_length": 9,
+    "example_format": "+995 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+995\\d{9}$",
+    "GC_ID": "10011",
+    "GC_NM_AB_EN": "Georgia",
+    "GC_NM_AB_FR": "Géorgie"
+  },
+  "RS": {
+    "country_code": "381",
+    "max_length": 12,
+    "example_format": "+381 XXX XXX XXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+381\\d{12}$",
+    "GC_ID": "10271",
+    "GC_NM_AB_EN": "Serbia",
+    "GC_NM_AB_FR": "Serbie"
+  },
+  "SM": {
+    "country_code": "378",
+    "max_length": 10,
+    "example_format": "+378 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+378\\d{10}$",
+    "GC_ID": "10240",
+    "GC_NM_AB_EN": "San Marino",
+    "GC_NM_AB_FR": "Saint-Marin"
+  },
+  "BG": {
+    "country_code": "359",
+    "max_length": 12,
+    "example_format": "+359 XXX XXX XXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+359\\d{12}$",
+    "GC_ID": "10163",
+    "GC_NM_AB_EN": "Bulgaria",
+    "GC_NM_AB_FR": "Bulgarie"
+  },
+  "BI": {
+    "country_code": "257",
+    "max_length": 8,
+    "example_format": "+257 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+257\\d{8}$",
+    "GC_ID": "10197",
+    "GC_NM_AB_EN": "Burundi",
+    "GC_NM_AB_FR": "Burundi"
+  },
+  "IN": {
+    "country_code": "91",
+    "max_length": 13,
+    "example_format": "+91 XXX XXX XXXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+91\\d{13}$",
+    "GC_ID": "10260",
+    "GC_NM_AB_EN": "India",
+    "GC_NM_AB_FR": "Inde"
+  },
+  "SL": {
+    "country_code": "232",
+    "max_length": 8,
+    "example_format": "+232 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+232\\d{8}$",
+    "GC_ID": "10109",
+    "GC_NM_AB_EN": "Sierra Leone",
+    "GC_NM_AB_FR": "Sierra Leone"
+  },
+  "SE": {
+    "country_code": "46",
+    "max_length": 12,
+    "example_format": "+46 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+46\\d{12}$",
+    "GC_ID": "10120",
+    "GC_NM_AB_EN": "Sweden",
+    "GC_NM_AB_FR": "Suède"
+  },
+  "ER": {
+    "country_code": "291",
+    "max_length": 7,
+    "example_format": "+291 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+291\\d{7}$",
+    "GC_ID": "10075",
+    "GC_NM_AB_EN": "Eritrea",
+    "GC_NM_AB_FR": "Érythrée"
+  },
+  "ZA": {
+    "country_code": "27",
+    "max_length": 10,
+    "example_format": "+27 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+27\\d{10}$",
+    "GC_ID": "10241",
+    "GC_NM_AB_EN": "South Africa",
+    "GC_NM_AB_FR": "Afrique du Sud"
+  },
+  "CX": {
+    "country_code": "61",
+    "max_length": 12,
+    "example_format": "+61 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+61\\d{12}$",
+    "GC_ID": "10198",
+    "GC_NM_AB_EN": "Christmas Island",
+    "GC_NM_AB_FR": "Île Christmas"
+  },
+  "PH": {
+    "country_code": "63",
+    "max_length": 13,
+    "example_format": "+63 XXX XXX XXXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+63\\d{13}$",
+    "GC_ID": "10103",
+    "GC_NM_AB_EN": "Philippines",
+    "GC_NM_AB_FR": "Philippines"
+  },
+  "LU": {
+    "country_code": "352",
+    "max_length": 11,
+    "example_format": "+352 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+352\\d{11}$",
+    "GC_ID": "10200",
+    "GC_NM_AB_EN": "Luxembourg",
+    "GC_NM_AB_FR": "Luxembourg"
+  },
+  "WS": {
+    "country_code": "685",
+    "max_length": 10,
+    "example_format": "+685 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+685\\d{10}$",
+    "GC_ID": "10031",
+    "GC_NM_AB_EN": "Samoa",
+    "GC_NM_AB_FR": "Samoa"
+  },
+  "SJ": {
+    "country_code": "47",
+    "max_length": 8,
+    "example_format": "+47 XXX XXX XX",
+    "total_max_digits": 10,
+    "regex": "^\\+47\\d{8}$",
+    "GC_ID": "10042",
+    "GC_NM_AB_EN": "Svalbard and Jan Mayen Islands",
+    "GC_NM_AB_FR": "Îles Svalbard-et-Jan Mayen"
+  },
+  "MF": {
+    "country_code": "590",
+    "max_length": 9,
+    "example_format": "+590 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+590\\d{9}$",
+    "GC_ID": "10086",
+    "GC_NM_AB_EN": "Saint Martin (French Republic)",
+    "GC_NM_AB_FR": "Saint-Martin (République française)"
+  },
+  "NG": {
+    "country_code": "234",
+    "max_length": 14,
+    "example_format": "+234 XXX XXX XXXXXXXX",
+    "total_max_digits": 17,
+    "regex": "^\\+234\\d{14}$",
+    "GC_ID": "10245",
+    "GC_NM_AB_EN": "Nigeria",
+    "GC_NM_AB_FR": "Nigéria"
+  },
+  "SS": {
+    "country_code": "211",
+    "max_length": 9,
+    "example_format": "+211 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+211\\d{9}$",
+    "GC_ID": "10250",
+    "GC_NM_AB_EN": "South Sudan",
+    "GC_NM_AB_FR": "Soudan du Sud"
+  },
+  "CU": {
+    "country_code": "53",
+    "max_length": 10,
+    "example_format": "+53 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+53\\d{10}$",
+    "GC_ID": "10218",
+    "GC_NM_AB_EN": "Cuba",
+    "GC_NM_AB_FR": "Cuba"
+  },
+  "HT": {
+    "country_code": "509",
+    "max_length": 8,
+    "example_format": "+509 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+509\\d{8}$",
+    "GC_ID": "10201",
+    "GC_NM_AB_EN": "Haiti",
+    "GC_NM_AB_FR": "Haïti"
+  },
+  "BQ": {
+    "country_code": "599",
+    "max_length": 7,
+    "example_format": "+599 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+599\\d{7}$",
+    "GC_ID": "10027",
+    "GC_NM_AB_EN": "Bonaire, Sint Eustatius and Saba",
+    "GC_NM_AB_FR": "Bonaire, Saint-Eustache et Saba"
+  },
+  "AO": {
+    "country_code": "244",
+    "max_length": 9,
+    "example_format": "+244 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+244\\d{9}$",
+    "GC_ID": "10185",
+    "GC_NM_AB_EN": "Angola",
+    "GC_NM_AB_FR": "Angola"
+  },
+  "MD": {
+    "country_code": "373",
+    "max_length": 8,
+    "example_format": "+373 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+373\\d{8}$",
+    "GC_ID": "10142",
+    "GC_NM_AB_EN": "Moldova",
+    "GC_NM_AB_FR": "la Moldova"
+  },
+  "BY": {
+    "country_code": "375",
+    "max_length": 11,
+    "example_format": "+375 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+375\\d{11}$",
+    "GC_ID": "10085",
+    "GC_NM_AB_EN": "Belarus",
+    "GC_NM_AB_FR": "Bélarus"
+  },
+  "ME": {
+    "country_code": "382",
+    "max_length": 9,
+    "example_format": "+382 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+382\\d{9}$",
+    "GC_ID": "10277",
+    "GC_NM_AB_EN": "Montenegro",
+    "GC_NM_AB_FR": "Monténégro"
+  },
+  "AF": {
+    "country_code": "93",
+    "max_length": 9,
+    "example_format": "+93 XXX XXX XXX",
+    "total_max_digits": 11,
+    "regex": "^\\+93\\d{9}$",
+    "GC_ID": "10237",
+    "GC_NM_AB_EN": "Afghanistan",
+    "GC_NM_AB_FR": "Afghanistan"
+  },
+  "LS": {
+    "country_code": "266",
+    "max_length": 8,
+    "example_format": "+266 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+266\\d{8}$",
+    "GC_ID": "10206",
+    "GC_NM_AB_EN": "Lesotho",
+    "GC_NM_AB_FR": "Lesotho"
+  },
+  "TN": {
+    "country_code": "216",
+    "max_length": 8,
+    "example_format": "+216 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+216\\d{8}$",
+    "GC_ID": "10052",
+    "GC_NM_AB_EN": "Tunisia",
+    "GC_NM_AB_FR": "Tunisie"
+  },
+  "XK": {
+    "country_code": "383",
+    "max_length": 12,
+    "example_format": "+383 XXX XXX XXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+383\\d{12}$",
+    "GC_ID": "10129",
+    "GC_NM_AB_EN": "Kosovo",
+    "GC_NM_AB_FR": "Kosovo"
+  },
+  "BZ": {
+    "country_code": "501",
+    "max_length": 11,
+    "example_format": "+501 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+501\\d{11}$",
+    "GC_ID": "10018",
+    "GC_NM_AB_EN": "Belize",
+    "GC_NM_AB_FR": "Belize"
+  },
+  "BA": {
+    "country_code": "387",
+    "max_length": 9,
+    "example_format": "+387 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+387\\d{9}$",
+    "GC_ID": "10026",
+    "GC_NM_AB_EN": "Bosnia and Herzegovina",
+    "GC_NM_AB_FR": "Bosnie-Herzégovine"
+  },
+  "CI": {
+    "country_code": "225",
+    "max_length": 10,
+    "example_format": "+225 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+225\\d{10}$",
+    "GC_ID": "10014",
+    "GC_NM_AB_EN": "Côte d’Ivoire",
+    "GC_NM_AB_FR": "Côte d’Ivoire"
+  },
+  "LY": {
+    "country_code": "218",
+    "max_length": 9,
+    "example_format": "+218 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+218\\d{9}$",
+    "GC_ID": "10268",
+    "GC_NM_AB_EN": "Libya",
+    "GC_NM_AB_FR": "Libye"
+  },
+  "GP": {
+    "country_code": "590",
+    "max_length": 9,
+    "example_format": "+590 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+590\\d{9}$",
+    "GC_ID": "10030",
+    "GC_NM_AB_EN": "Guadeloupe",
+    "GC_NM_AB_FR": "Guadeloupe"
+  },
+  "NU": {
+    "country_code": "683",
+    "max_length": 7,
+    "example_format": "+683 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+683\\d{7}$",
+    "GC_ID": "10114",
+    "GC_NM_AB_EN": "Niue",
+    "GC_NM_AB_FR": "Niue"
+  },
+  "SX": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10217",
+    "GC_NM_AB_EN": "Sint Maarten",
+    "GC_NM_AB_FR": "Saint-Martin"
+  },
+  "VA": {
+    "country_code": "39",
+    "max_length": 12,
+    "example_format": "+39 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+39\\d{12}$",
+    "GC_ID": "10172",
+    "GC_NM_AB_EN": "Vatican City State",
+    "GC_NM_AB_FR": "État de la Cité du Vatican"
+  },
+  "MO": {
+    "country_code": "853",
+    "max_length": 8,
+    "example_format": "+853 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+853\\d{8}$",
+    "GC_ID": "10139",
+    "GC_NM_AB_EN": "Macao",
+    "GC_NM_AB_FR": "Macao"
+  },
+  "MY": {
+    "country_code": "60",
+    "max_length": 10,
+    "example_format": "+60 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+60\\d{10}$",
+    "GC_ID": "10061",
+    "GC_NM_AB_EN": "Malaysia",
+    "GC_NM_AB_FR": "Malaisie"
+  },
+  "TR": {
+    "country_code": "90",
+    "max_length": 13,
+    "example_format": "+90 XXX XXX XXXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+90\\d{13}$",
+    "GC_ID": "10181",
+    "GC_NM_AB_EN": "Türkiye",
+    "GC_NM_AB_FR": "Türkiye"
+  },
+  "PF": {
+    "country_code": "689",
+    "max_length": 9,
+    "example_format": "+689 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+689\\d{9}$",
+    "GC_ID": "10171",
+    "GC_NM_AB_EN": "French Polynesia (French Republic)",
+    "GC_NM_AB_FR": "Polynésie française (République française)"
+  },
+  "IO": {
+    "country_code": "246",
+    "max_length": 7,
+    "example_format": "+246 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+246\\d{7}$",
+    "GC_ID": "10046",
+    "GC_NM_AB_EN": "British Indian Ocean Territory",
+    "GC_NM_AB_FR": "Territoire britannique de l’océan Indien"
+  },
+  "GN": {
+    "country_code": "224",
+    "max_length": 9,
+    "example_format": "+224 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+224\\d{9}$",
+    "GC_ID": "10234",
+    "GC_NM_AB_EN": "Guinea",
+    "GC_NM_AB_FR": "Guinée"
+  },
+  "TT": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10084",
+    "GC_NM_AB_EN": "Trinidad and Tobago",
+    "GC_NM_AB_FR": "Trinité-et-Tobago"
+  },
+  "BL": {
+    "country_code": "590",
+    "max_length": 9,
+    "example_format": "+590 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+590\\d{9}$",
+    "GC_ID": "10205",
+    "GC_NM_AB_EN": "Saint Barthélemy (French Republic)",
+    "GC_NM_AB_FR": "Saint-Barthélemy (République française)"
+  },
+  "GI": {
+    "country_code": "350",
+    "max_length": 8,
+    "example_format": "+350 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+350\\d{8}$",
+    "GC_ID": "10069",
+    "GC_NM_AB_EN": "Gibraltar",
+    "GC_NM_AB_FR": "Gibraltar"
+  },
+  "CF": {
+    "country_code": "236",
+    "max_length": 8,
+    "example_format": "+236 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+236\\d{8}$",
+    "GC_ID": "10094",
+    "GC_NM_AB_EN": "Central African Republic",
+    "GC_NM_AB_FR": "République centrafricaine"
+  },
+  "CK": {
+    "country_code": "682",
+    "max_length": 5,
+    "example_format": "+682 XXX XX",
+    "total_max_digits": 8,
+    "regex": "^\\+682\\d{5}$",
+    "GC_ID": "10058",
+    "GC_NM_AB_EN": "Cook Islands",
+    "GC_NM_AB_FR": "Îles Cook"
+  },
+  "TH": {
+    "country_code": "66",
+    "max_length": 13,
+    "example_format": "+66 XXX XXX XXXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+66\\d{13}$",
+    "GC_ID": "10116",
+    "GC_NM_AB_EN": "Thailand",
+    "GC_NM_AB_FR": "Thaïlande"
+  },
+  "MK": {
+    "country_code": "389",
+    "max_length": 8,
+    "example_format": "+389 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+389\\d{8}$",
+    "GC_ID": "10270",
+    "GC_NM_AB_EN": "North Macedonia",
+    "GC_NM_AB_FR": "Macédoine du Nord"
+  },
+  "GT": {
+    "country_code": "502",
+    "max_length": 11,
+    "example_format": "+502 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+502\\d{11}$",
+    "GC_ID": "10168",
+    "GC_NM_AB_EN": "Guatemala",
+    "GC_NM_AB_FR": "Guatemala"
+  },
+  "SY": {
+    "country_code": "963",
+    "max_length": 9,
+    "example_format": "+963 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+963\\d{9}$",
+    "GC_ID": "10148",
+    "GC_NM_AB_EN": "Syria",
+    "GC_NM_AB_FR": "Syrie"
+  },
+  "SA": {
+    "country_code": "966",
+    "max_length": 10,
+    "example_format": "+966 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+966\\d{10}$",
+    "GC_ID": "10178",
+    "GC_NM_AB_EN": "Saudi Arabia",
+    "GC_NM_AB_FR": "Arabie saoudite"
+  },
+  "VN": {
+    "country_code": "84",
+    "max_length": 10,
+    "example_format": "+84 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+84\\d{10}$",
+    "GC_ID": "10024",
+    "GC_NM_AB_EN": "Vietnam",
+    "GC_NM_AB_FR": "Vietnam"
+  },
+  "AR": {
+    "country_code": "54",
+    "max_length": 11,
+    "example_format": "+54 XXX XXX XXXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+54\\d{11}$",
+    "GC_ID": "10097",
+    "GC_NM_AB_EN": "Argentina",
+    "GC_NM_AB_FR": "Argentine"
+  },
+  "AT": {
+    "country_code": "43",
+    "max_length": 13,
+    "example_format": "+43 XXX XXX XXXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+43\\d{13}$",
+    "GC_ID": "10161",
+    "GC_NM_AB_EN": "Austria",
+    "GC_NM_AB_FR": "Autriche"
+  },
+  "GH": {
+    "country_code": "233",
+    "max_length": 9,
+    "example_format": "+233 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+233\\d{9}$",
+    "GC_ID": "10048",
+    "GC_NM_AB_EN": "Ghana",
+    "GC_NM_AB_FR": "Ghana"
+  },
+  "LT": {
+    "country_code": "370",
+    "max_length": 8,
+    "example_format": "+370 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+370\\d{8}$",
+    "GC_ID": "10128",
+    "GC_NM_AB_EN": "Lithuania",
+    "GC_NM_AB_FR": "Lituanie"
+  },
+  "IQ": {
+    "country_code": "964",
+    "max_length": 10,
+    "example_format": "+964 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+964\\d{10}$",
+    "GC_ID": "10264",
+    "GC_NM_AB_EN": "Iraq",
+    "GC_NM_AB_FR": "Iraq"
+  },
+  "CO": {
+    "country_code": "57",
+    "max_length": 11,
+    "example_format": "+57 XXX XXX XXXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+57\\d{11}$",
+    "GC_ID": "10051",
+    "GC_NM_AB_EN": "Colombia",
+    "GC_NM_AB_FR": "Colombie"
+  },
+  "LV": {
+    "country_code": "371",
+    "max_length": 8,
+    "example_format": "+371 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+371\\d{8}$",
+    "GC_ID": "10184",
+    "GC_NM_AB_EN": "Latvia",
+    "GC_NM_AB_FR": "Lettonie"
+  },
+  "KP": {
+    "country_code": "850",
+    "max_length": 10,
+    "example_format": "+850 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+850\\d{10}$",
+    "GC_ID": "10010",
+    "GC_NM_AB_EN": "North Korea",
+    "GC_NM_AB_FR": "Corée du Nord"
+  },
+  "IL": {
+    "country_code": "972",
+    "max_length": 12,
+    "example_format": "+972 XXX XXX XXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+972\\d{12}$",
+    "GC_ID": "10199",
+    "GC_NM_AB_EN": "Israel",
+    "GC_NM_AB_FR": "Israël"
+  },
+  "IS": {
+    "country_code": "354",
+    "max_length": 9,
+    "example_format": "+354 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+354\\d{9}$",
+    "GC_ID": "10150",
+    "GC_NM_AB_EN": "Iceland",
+    "GC_NM_AB_FR": "Islande"
+  },
+  "ST": {
+    "country_code": "239",
+    "max_length": 7,
+    "example_format": "+239 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+239\\d{7}$",
+    "GC_ID": "10118",
+    "GC_NM_AB_EN": "São Tomé and Príncipe",
+    "GC_NM_AB_FR": "Sao Tomé-et-Principe"
+  },
+  "KE": {
+    "country_code": "254",
+    "max_length": 10,
+    "example_format": "+254 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+254\\d{10}$",
+    "GC_ID": "10137",
+    "GC_NM_AB_EN": "Kenya",
+    "GC_NM_AB_FR": "Kenya"
+  },
+  "BW": {
+    "country_code": "267",
+    "max_length": 10,
+    "example_format": "+267 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+267\\d{10}$",
+    "GC_ID": "10092",
+    "GC_NM_AB_EN": "Botswana",
+    "GC_NM_AB_FR": "Botswana"
+  },
+  "BF": {
+    "country_code": "226",
+    "max_length": 8,
+    "example_format": "+226 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+226\\d{8}$",
+    "GC_ID": "10038",
+    "GC_NM_AB_EN": "Burkina Faso",
+    "GC_NM_AB_FR": "Burkina Faso"
+  },
+  "SH": {
+    "country_code": "290",
+    "max_length": 5,
+    "example_format": "+290 XXX XX",
+    "total_max_digits": 8,
+    "regex": "^\\+290\\d{5}$",
+    "GC_ID": "10132",
+    "GC_NM_AB_EN": "Saint Helena Ascension and Tristan da Cunha",
+    "GC_NM_AB_FR": "Sainte-Hélène Ascension et Tristan da Cunha"
+  },
+  "SI": {
+    "country_code": "386",
+    "max_length": 8,
+    "example_format": "+386 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+386\\d{8}$",
+    "GC_ID": "10004",
+    "GC_NM_AB_EN": "Slovenia",
+    "GC_NM_AB_FR": "Slovénie"
+  },
+  "HN": {
+    "country_code": "504",
+    "max_length": 11,
+    "example_format": "+504 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+504\\d{11}$",
+    "GC_ID": "10020",
+    "GC_NM_AB_EN": "Honduras",
+    "GC_NM_AB_FR": "Honduras"
+  },
+  "SV": {
+    "country_code": "503",
+    "max_length": 11,
+    "example_format": "+503 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+503\\d{11}$",
+    "GC_ID": "10091",
+    "GC_NM_AB_EN": "El Salvador",
+    "GC_NM_AB_FR": "Salvador"
+  },
+  "SR": {
+    "country_code": "597",
+    "max_length": 7,
+    "example_format": "+597 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+597\\d{7}$",
+    "GC_ID": "10215",
+    "GC_NM_AB_EN": "Suriname",
+    "GC_NM_AB_FR": "Suriname"
+  },
+  "TO": {
+    "country_code": "676",
+    "max_length": 7,
+    "example_format": "+676 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+676\\d{7}$",
+    "GC_ID": "10221",
+    "GC_NM_AB_EN": "Tonga",
+    "GC_NM_AB_FR": "Tonga"
+  },
+  "RW": {
+    "country_code": "250",
+    "max_length": 9,
+    "example_format": "+250 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+250\\d{9}$",
+    "GC_ID": "10029",
+    "GC_NM_AB_EN": "Rwanda",
+    "GC_NM_AB_FR": "Rwanda"
+  },
+  "DZ": {
+    "country_code": "213",
+    "max_length": 9,
+    "example_format": "+213 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+213\\d{9}$",
+    "GC_ID": "10007",
+    "GC_NM_AB_EN": "Algeria",
+    "GC_NM_AB_FR": "Algérie"
+  },
+  "VC": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10037",
+    "GC_NM_AB_EN": "Saint Vincent and the Grenadines",
+    "GC_NM_AB_FR": "Saint-Vincent-et-les Grenadines"
+  },
+  "PL": {
+    "country_code": "48",
+    "max_length": 10,
+    "example_format": "+48 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+48\\d{10}$",
+    "GC_ID": "10157",
+    "GC_NM_AB_EN": "Poland",
+    "GC_NM_AB_FR": "Pologne"
+  },
+  "TL": {
+    "country_code": "670",
+    "max_length": 8,
+    "example_format": "+670 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+670\\d{8}$",
+    "GC_ID": "10022",
+    "GC_NM_AB_EN": "Timor-Leste",
+    "GC_NM_AB_FR": "Timor-Leste"
+  },
+  "KG": {
+    "country_code": "996",
+    "max_length": 10,
+    "example_format": "+996 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+996\\d{10}$",
+    "GC_ID": "10269",
+    "GC_NM_AB_EN": "Kyrgyzstan",
+    "GC_NM_AB_FR": "Kirghizistan"
+  },
+  "EH": {
+    "country_code": "212",
+    "max_length": 9,
+    "example_format": "+212 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+212\\d{9}$",
+    "GC_ID": "10138",
+    "GC_NM_AB_EN": "Western Sahara",
+    "GC_NM_AB_FR": "Sahara occidental (le)"
+  },
+  "IE": {
+    "country_code": "353",
+    "max_length": 10,
+    "example_format": "+353 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+353\\d{10}$",
+    "GC_ID": "10159",
+    "GC_NM_AB_EN": "Ireland",
+    "GC_NM_AB_FR": "Irlande"
+  },
+  "VE": {
+    "country_code": "58",
+    "max_length": 10,
+    "example_format": "+58 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+58\\d{10}$",
+    "GC_ID": "10162",
+    "GC_NM_AB_EN": "Venezuela",
+    "GC_NM_AB_FR": "Venezuela"
+  },
+  "NA": {
+    "country_code": "264",
+    "max_length": 9,
+    "example_format": "+264 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+264\\d{9}$",
+    "GC_ID": "10093",
+    "GC_NM_AB_EN": "Namibia",
+    "GC_NM_AB_FR": "Namibie"
+  },
+  "TM": {
+    "country_code": "993",
+    "max_length": 8,
+    "example_format": "+993 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+993\\d{8}$",
+    "GC_ID": "10096",
+    "GC_NM_AB_EN": "Turkmenistan",
+    "GC_NM_AB_FR": "Turkménistan"
+  },
+  "DM": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10062",
+    "GC_NM_AB_EN": "Dominica",
+    "GC_NM_AB_FR": "Dominique"
+  },
+  "CC": {
+    "country_code": "61",
+    "max_length": 12,
+    "example_format": "+61 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+61\\d{12}$",
+    "GC_ID": "10083",
+    "GC_NM_AB_EN": "Cocos (Keeling) Islands",
+    "GC_NM_AB_FR": "Cocos (les Îles)/ Keeling (les Îles)"
+  },
+  "PE": {
+    "country_code": "51",
+    "max_length": 9,
+    "example_format": "+51 XXX XXX XXX",
+    "total_max_digits": 11,
+    "regex": "^\\+51\\d{9}$",
+    "GC_ID": "10176",
+    "GC_NM_AB_EN": "Peru",
+    "GC_NM_AB_FR": "Pérou"
+  },
+  "ZW": {
+    "country_code": "263",
+    "max_length": 10,
+    "example_format": "+263 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+263\\d{10}$",
+    "GC_ID": "10230",
+    "GC_NM_AB_EN": "Zimbabwe",
+    "GC_NM_AB_FR": "Zimbabwe"
+  },
+  "GA": {
+    "country_code": "241",
+    "max_length": 8,
+    "example_format": "+241 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+241\\d{8}$",
+    "GC_ID": "10261",
+    "GC_NM_AB_EN": "Gabon",
+    "GC_NM_AB_FR": "Gabon"
+  },
+  "PG": {
+    "country_code": "675",
+    "max_length": 8,
+    "example_format": "+675 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+675\\d{8}$",
+    "GC_ID": "10255",
+    "GC_NM_AB_EN": "Papua New Guinea",
+    "GC_NM_AB_FR": "Papouasie-Nouvelle-Guinée"
+  },
+  "JE": {
+    "country_code": "44",
+    "max_length": 10,
+    "example_format": "+44 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+44\\d{10}$",
+    "GC_ID": "10214",
+    "GC_NM_AB_EN": "Jersey",
+    "GC_NM_AB_FR": "Jersey"
+  },
+  "HR": {
+    "country_code": "385",
+    "max_length": 9,
+    "example_format": "+385 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+385\\d{9}$",
+    "GC_ID": "10235",
+    "GC_NM_AB_EN": "Croatia",
+    "GC_NM_AB_FR": "Croatie"
+  },
+  "IM": {
+    "country_code": "44",
+    "max_length": 10,
+    "example_format": "+44 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+44\\d{10}$",
+    "GC_ID": "10013",
+    "GC_NM_AB_EN": "Isle of Man",
+    "GC_NM_AB_FR": "Île de Man"
+  },
+  "DE": {
+    "country_code": "49",
+    "max_length": 15,
+    "example_format": "+49 XXX XXX XXXXXXXXX",
+    "total_max_digits": 17,
+    "regex": "^\\+49\\d{15}$",
+    "GC_ID": "10257",
+    "GC_NM_AB_EN": "Germany",
+    "GC_NM_AB_FR": "Allemagne"
+  },
+  "LR": {
+    "country_code": "231",
+    "max_length": 9,
+    "example_format": "+231 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+231\\d{9}$",
+    "GC_ID": "10207",
+    "GC_NM_AB_EN": "Liberia",
+    "GC_NM_AB_FR": "Libéria"
+  },
+  "UA": {
+    "country_code": "380",
+    "max_length": 10,
+    "example_format": "+380 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+380\\d{10}$",
+    "GC_ID": "10189",
+    "GC_NM_AB_EN": "Ukraine",
+    "GC_NM_AB_FR": "Ukraine"
+  },
+  "VG": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10060",
+    "GC_NM_AB_EN": "British Virgin Islands",
+    "GC_NM_AB_FR": "Vierges britanniques (les Îles)"
+  },
+  "AE": {
+    "country_code": "971",
+    "max_length": 12,
+    "example_format": "+971 XXX XXX XXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+971\\d{12}$",
+    "GC_ID": "10186",
+    "GC_NM_AB_EN": "United Arab Emirates",
+    "GC_NM_AB_FR": "Émirats arabes unis"
+  },
+  "CL": {
+    "country_code": "56",
+    "max_length": 11,
+    "example_format": "+56 XXX XXX XXXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+56\\d{11}$",
+    "GC_ID": "10072",
+    "GC_NM_AB_EN": "Chile",
+    "GC_NM_AB_FR": "Chili"
+  },
+  "SZ": {
+    "country_code": "268",
+    "max_length": 9,
+    "example_format": "+268 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+268\\d{9}$",
+    "GC_ID": "10100",
+    "GC_NM_AB_EN": "Eswatini",
+    "GC_NM_AB_FR": "Eswatini"
+  },
+  "MW": {
+    "country_code": "265",
+    "max_length": 9,
+    "example_format": "+265 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+265\\d{9}$",
+    "GC_ID": "10034",
+    "GC_NM_AB_EN": "Malawi",
+    "GC_NM_AB_FR": "Malawi"
+  },
+  "AX": {
+    "country_code": "358",
+    "max_length": 12,
+    "example_format": "+358 XXX XXX XXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+358\\d{12}$",
+    "GC_ID": "10123",
+    "GC_NM_AB_EN": "Åland",
+    "GC_NM_AB_FR": "Åland"
+  },
+  "JM": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10275",
+    "GC_NM_AB_EN": "Jamaica",
+    "GC_NM_AB_FR": "Jamaïque"
+  },
+  "GU": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10266",
+    "GC_NM_AB_EN": "Guam",
+    "GC_NM_AB_FR": "Guam"
+  },
+  "NZ": {
+    "country_code": "64",
+    "max_length": 10,
+    "example_format": "+64 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+64\\d{10}$",
+    "GC_ID": "10105",
+    "GC_NM_AB_EN": "New Zealand",
+    "GC_NM_AB_FR": "Nouvelle-Zélande"
+  },
+  "YT": {
+    "country_code": "262",
+    "max_length": 9,
+    "example_format": "+262 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+262\\d{9}$",
+    "GC_ID": "10156",
+    "GC_NM_AB_EN": "Mayotte",
+    "GC_NM_AB_FR": "Mayotte"
+  },
+  "GD": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10019",
+    "GC_NM_AB_EN": "Grenada",
+    "GC_NM_AB_FR": "Grenade"
+  },
+  "DK": {
+    "country_code": "45",
+    "max_length": 8,
+    "example_format": "+45 XXX XXX XX",
+    "total_max_digits": 10,
+    "regex": "^\\+45\\d{8}$",
+    "GC_ID": "10017",
+    "GC_NM_AB_EN": "Denmark",
+    "GC_NM_AB_FR": "Danemark"
+  },
+  "AD": {
+    "country_code": "376",
+    "max_length": 9,
+    "example_format": "+376 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+376\\d{9}$",
+    "GC_ID": "10066",
+    "GC_NM_AB_EN": "Andorra",
+    "GC_NM_AB_FR": "Andorre"
+  },
+  "TV": {
+    "country_code": "688",
+    "max_length": 7,
+    "example_format": "+688 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+688\\d{7}$",
+    "GC_ID": "10228",
+    "GC_NM_AB_EN": "Tuvalu",
+    "GC_NM_AB_FR": "Tuvalu"
+  },
+  "MA": {
+    "country_code": "212",
+    "max_length": 9,
+    "example_format": "+212 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+212\\d{9}$",
+    "GC_ID": "10179",
+    "GC_NM_AB_EN": "Morocco",
+    "GC_NM_AB_FR": "Maroc"
+  },
+  "SK": {
+    "country_code": "421",
+    "max_length": 9,
+    "example_format": "+421 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+421\\d{9}$",
+    "GC_ID": "10242",
+    "GC_NM_AB_EN": "Slovakia",
+    "GC_NM_AB_FR": "Slovaquie"
+  },
+  "CZ": {
+    "country_code": "420",
+    "max_length": 12,
+    "example_format": "+420 XXX XXX XXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+420\\d{12}$",
+    "GC_ID": "10272",
+    "GC_NM_AB_EN": "Czechia",
+    "GC_NM_AB_FR": "Tchéquie"
+  },
+  "GM": {
+    "country_code": "220",
+    "max_length": 7,
+    "example_format": "+220 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+220\\d{7}$",
+    "GC_ID": "10131",
+    "GC_NM_AB_EN": "Gambia (The)",
+    "GC_NM_AB_FR": "Gambie"
+  },
+  "TW": {
+    "country_code": "886",
+    "max_length": 11,
+    "example_format": "+886 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+886\\d{11}$",
+    "GC_ID": "10187",
+    "GC_NM_AB_EN": "Taiwan",
+    "GC_NM_AB_FR": "Taïwan"
+  },
+  "NC": {
+    "country_code": "687",
+    "max_length": 6,
+    "example_format": "+687 XXX XXX",
+    "total_max_digits": 9,
+    "regex": "^\\+687\\d{6}$",
+    "GC_ID": "10130",
+    "GC_NM_AB_EN": "New Caledonia",
+    "GC_NM_AB_FR": "Nouvelle-Calédonie"
+  },
+  "AZ": {
+    "country_code": "994",
+    "max_length": 9,
+    "example_format": "+994 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+994\\d{9}$",
+    "GC_ID": "10151",
+    "GC_NM_AB_EN": "Azerbaijan",
+    "GC_NM_AB_FR": "Azerbaïdjan"
+  },
+  "BO": {
+    "country_code": "591",
+    "max_length": 9,
+    "example_format": "+591 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+591\\d{9}$",
+    "GC_ID": "10077",
+    "GC_NM_AB_EN": "Bolivia",
+    "GC_NM_AB_FR": "Bolivie"
+  },
+  "BB": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10059",
+    "GC_NM_AB_EN": "Barbados",
+    "GC_NM_AB_FR": "Barbade"
+  },
+  "NL": {
+    "country_code": "31",
+    "max_length": 11,
+    "example_format": "+31 XXX XXX XXXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+31\\d{11}$",
+    "GC_ID": "10098",
+    "GC_NM_AB_EN": "Netherlands",
+    "GC_NM_AB_FR": "Pays-Bas"
+  },
+  "KZ": {
+    "country_code": "7",
+    "max_length": 14,
+    "example_format": "+7 XXX XXX XXXXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+7\\d{14}$",
+    "GC_ID": "10236",
+    "GC_NM_AB_EN": "Kazakhstan",
+    "GC_NM_AB_FR": "Kazakhstan"
+  },
+  "ET": {
+    "country_code": "251",
+    "max_length": 9,
+    "example_format": "+251 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+251\\d{9}$",
+    "GC_ID": "10073",
+    "GC_NM_AB_EN": "Ethiopia",
+    "GC_NM_AB_FR": "Éthiopie"
+  },
+  "CD": {
+    "country_code": "243",
+    "max_length": 10,
+    "example_format": "+243 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+243\\d{10}$",
+    "GC_ID": "10280",
+    "GC_NM_AB_EN": "Democratic Republic of Congo",
+    "GC_NM_AB_FR": "République démocratique du Congo"
+  },
+  "BM": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10082",
+    "GC_NM_AB_EN": "Bermuda",
+    "GC_NM_AB_FR": "Bermudes (les)"
+  },
+  "CH": {
+    "country_code": "41",
+    "max_length": 12,
+    "example_format": "+41 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+41\\d{12}$",
+    "GC_ID": "10074",
+    "GC_NM_AB_EN": "Switzerland",
+    "GC_NM_AB_FR": "Suisse"
+  },
+  "MG": {
+    "country_code": "261",
+    "max_length": 9,
+    "example_format": "+261 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+261\\d{9}$",
+    "GC_ID": "10056",
+    "GC_NM_AB_EN": "Madagascar",
+    "GC_NM_AB_FR": "Madagascar"
+  },
+  "BD": {
+    "country_code": "880",
+    "max_length": 10,
+    "example_format": "+880 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+880\\d{10}$",
+    "GC_ID": "10167",
+    "GC_NM_AB_EN": "Bangladesh",
+    "GC_NM_AB_FR": "Bangladesh"
+  },
+  "LK": {
+    "country_code": "94",
+    "max_length": 9,
+    "example_format": "+94 XXX XXX XXX",
+    "total_max_digits": 11,
+    "regex": "^\\+94\\d{9}$",
+    "GC_ID": "10108",
+    "GC_NM_AB_EN": "Sri Lanka",
+    "GC_NM_AB_FR": "Sri Lanka"
+  },
+  "UZ": {
+    "country_code": "998",
+    "max_length": 9,
+    "example_format": "+998 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+998\\d{9}$",
+    "GC_ID": "10102",
+    "GC_NM_AB_EN": "Uzbekistan",
+    "GC_NM_AB_FR": "Ouzbékistan"
+  },
+  "AL": {
+    "country_code": "355",
+    "max_length": 9,
+    "example_format": "+355 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+355\\d{9}$",
+    "GC_ID": "10104",
+    "GC_NM_AB_EN": "Albania",
+    "GC_NM_AB_FR": "Albanie"
+  },
+  "VI": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10177",
+    "GC_NM_AB_EN": "US Virgin Islands",
+    "GC_NM_AB_FR": "Vierges des États-Unis (les Îles)"
+  },
+  "CV": {
+    "country_code": "238",
+    "max_length": 7,
+    "example_format": "+238 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+238\\d{7}$",
+    "GC_ID": "10044",
+    "GC_NM_AB_EN": "Cabo Verde",
+    "GC_NM_AB_FR": "Cabo Verde"
+  },
+  "RU": {
+    "country_code": "7",
+    "max_length": 14,
+    "example_format": "+7 XXX XXX XXXXXXXX",
+    "total_max_digits": 15,
+    "regex": "^\\+7\\d{14}$",
+    "GC_ID": "10035",
+    "GC_NM_AB_EN": "Russia",
+    "GC_NM_AB_FR": "Russie"
+  },
+  "LI": {
+    "country_code": "423",
+    "max_length": 9,
+    "example_format": "+423 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+423\\d{9}$",
+    "GC_ID": "10117",
+    "GC_NM_AB_EN": "Liechtenstein",
+    "GC_NM_AB_FR": "Liechtenstein"
+  },
+  "LC": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10209",
+    "GC_NM_AB_EN": "Saint Lucia",
+    "GC_NM_AB_FR": "Sainte-Lucie"
+  },
+  "AM": {
+    "country_code": "374",
+    "max_length": 8,
+    "example_format": "+374 XXX XXX XX",
+    "total_max_digits": 11,
+    "regex": "^\\+374\\d{8}$",
+    "GC_ID": "10224",
+    "GC_NM_AB_EN": "Armenia",
+    "GC_NM_AB_FR": "Arménie"
+  },
+  "KY": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10252",
+    "GC_NM_AB_EN": "Cayman Islands",
+    "GC_NM_AB_FR": "Caïmans (les Îles)"
+  },
+  "PT": {
+    "country_code": "351",
+    "max_length": 9,
+    "example_format": "+351 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+351\\d{9}$",
+    "GC_ID": "10087",
+    "GC_NM_AB_EN": "Portugal",
+    "GC_NM_AB_FR": "Portugal"
+  },
+  "MC": {
+    "country_code": "377",
+    "max_length": 9,
+    "example_format": "+377 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+377\\d{9}$",
+    "GC_ID": "10141",
+    "GC_NM_AB_EN": "Monaco",
+    "GC_NM_AB_FR": "Monaco"
+  },
+  "PR": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10225",
+    "GC_NM_AB_EN": "Puerto Rico",
+    "GC_NM_AB_FR": "Porto Rico"
+  },
+  "EG": {
+    "country_code": "20",
+    "max_length": 10,
+    "example_format": "+20 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+20\\d{10}$",
+    "GC_ID": "10188",
+    "GC_NM_AB_EN": "Egypt",
+    "GC_NM_AB_FR": "Égypte"
+  },
+  "CA": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10244",
+    "GC_NM_AB_EN": "Canada",
+    "GC_NM_AB_FR": "Canada"
+  },
+  "NO": {
+    "country_code": "47",
+    "max_length": 8,
+    "example_format": "+47 XXX XXX XX",
+    "total_max_digits": 10,
+    "regex": "^\\+47\\d{8}$",
+    "GC_ID": "10246",
+    "GC_NM_AB_EN": "Norway",
+    "GC_NM_AB_FR": "Norvège"
+  },
+  "GR": {
+    "country_code": "30",
+    "max_length": 12,
+    "example_format": "+30 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+30\\d{12}$",
+    "GC_ID": "10232",
+    "GC_NM_AB_EN": "Greece",
+    "GC_NM_AB_FR": "Grèce"
+  },
+  "UY": {
+    "country_code": "598",
+    "max_length": 13,
+    "example_format": "+598 XXX XXX XXXXXXX",
+    "total_max_digits": 16,
+    "regex": "^\\+598\\d{13}$",
+    "GC_ID": "10238",
+    "GC_NM_AB_EN": "Uruguay",
+    "GC_NM_AB_FR": "Uruguay"
+  },
+  "SB": {
+    "country_code": "677",
+    "max_length": 7,
+    "example_format": "+677 XXX XXXX",
+    "total_max_digits": 10,
+    "regex": "^\\+677\\d{7}$",
+    "GC_ID": "10090",
+    "GC_NM_AB_EN": "Solomon Islands",
+    "GC_NM_AB_FR": "Îles Salomon"
+  },
+  "MP": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10065",
+    "GC_NM_AB_EN": "Northern Mariana Islands",
+    "GC_NM_AB_FR": "Mariannes du Nord (les Îles)"
+  },
+  "FJ": {
+    "country_code": "679",
+    "max_length": 11,
+    "example_format": "+679 XXX XXX XXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+679\\d{11}$",
+    "GC_ID": "10001",
+    "GC_NM_AB_EN": "Fiji",
+    "GC_NM_AB_FR": "Fidji"
+  },
+  "JO": {
+    "country_code": "962",
+    "max_length": 9,
+    "example_format": "+962 XXX XXX XXX",
+    "total_max_digits": 12,
+    "regex": "^\\+962\\d{9}$",
+    "GC_ID": "10054",
+    "GC_NM_AB_EN": "Jordan",
+    "GC_NM_AB_FR": "Jordanie"
+  },
+  "ID": {
+    "country_code": "62",
+    "max_length": 17,
+    "example_format": "+62 XXX XXX XXXXXXXXXXX",
+    "total_max_digits": 19,
+    "regex": "^\\+62\\d{17}$",
+    "GC_ID": "10080",
+    "GC_NM_AB_EN": "Indonesia",
+    "GC_NM_AB_FR": "Indonésie"
+  },
+  "MU": {
+    "country_code": "230",
+    "max_length": 10,
+    "example_format": "+230 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+230\\d{10}$",
+    "GC_ID": "10153",
+    "GC_NM_AB_EN": "Mauritius",
+    "GC_NM_AB_FR": "Maurice"
+  },
+  "GB": {
+    "country_code": "44",
+    "max_length": 10,
+    "example_format": "+44 XXX XXX XXXX",
+    "total_max_digits": 12,
+    "regex": "^\\+44\\d{10}$",
+    "GC_ID": "10135",
+    "GC_NM_AB_EN": "United Kingdom",
+    "GC_NM_AB_FR": "Royaume-Uni"
+  },
+  "RO": {
+    "country_code": "40",
+    "max_length": 9,
+    "example_format": "+40 XXX XXX XXX",
+    "total_max_digits": 11,
+    "regex": "^\\+40\\d{9}$",
+    "GC_ID": "10169",
+    "GC_NM_AB_EN": "Romania",
+    "GC_NM_AB_FR": "Roumanie"
+  },
+  "CR": {
+    "country_code": "506",
+    "max_length": 10,
+    "example_format": "+506 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+506\\d{10}$",
+    "GC_ID": "10146",
+    "GC_NM_AB_EN": "Costa Rica",
+    "GC_NM_AB_FR": "Costa Rica"
+  },
+  "MV": {
+    "country_code": "960",
+    "max_length": 10,
+    "example_format": "+960 XXX XXX XXXX",
+    "total_max_digits": 13,
+    "regex": "^\\+960\\d{10}$",
+    "GC_ID": "10099",
+    "GC_NM_AB_EN": "Maldives",
+    "GC_NM_AB_FR": "Maldives"
+  },
+  "IT": {
+    "country_code": "39",
+    "max_length": 12,
+    "example_format": "+39 XXX XXX XXXXXX",
+    "total_max_digits": 14,
+    "regex": "^\\+39\\d{12}$",
+    "GC_ID": "10089",
+    "GC_NM_AB_EN": "Italy",
+    "GC_NM_AB_FR": "Italie"
+  },
+  "AG": {
+    "country_code": "1",
+    "max_length": 10,
+    "example_format": "+1 XXX XXX XXXX",
+    "total_max_digits": 11,
+    "regex": "^\\+1\\d{10}$",
+    "GC_ID": "10256",
+    "GC_NM_AB_EN": "Antigua and Barbuda",
+    "GC_NM_AB_FR": "Antigua-et-Barbuda"
+  }
+}
