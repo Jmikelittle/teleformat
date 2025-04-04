@@ -60,6 +60,9 @@ except ImportError:
 
 # Add additional useful information to the data
 for country_code, data in phone_format_data.items():
+    # Add ISO country code as explicit field
+    data["ISO"] = country_code
+    
     # Add total max digits (country code + max length)
     data["total_max_digits"] = len(data["country_code"]) + data["max_length"]
     
@@ -130,8 +133,34 @@ except Exception as e:
     traceback.print_exc()
     print("Continuing with existing data only.")
 
+# Print country code and ISO for each entry before sorting (for debugging)
+print("Before sorting:")
+for iso, data in list(phone_format_data.items())[:5]:
+    print(f"ISO: {iso}, Country Code: {data['country_code']}")
+
+# Sort data first by country code numerically, then by ISO code alphabetically
+sorted_phone_format_data = {}
+# Group by country code
+country_code_groups = {}
+for iso, data in phone_format_data.items():
+    country_code = data["country_code"]
+    if country_code not in country_code_groups:
+        country_code_groups[country_code] = []
+    country_code_groups[country_code].append((iso, data))
+
+# Sort country codes numerically
+for country_code in sorted(country_code_groups.keys(), key=int):
+    # For each country code, sort by ISO alphabetically
+    for iso, data in sorted(country_code_groups[country_code], key=lambda x: x[0]):
+        sorted_phone_format_data[iso] = data
+
+# Print a few entries after sorting (for debugging)
+print("After sorting:")
+for iso, data in list(sorted_phone_format_data.items())[:5]:
+    print(f"ISO: {iso}, Country Code: {data['country_code']}")
+
 # Write data to a JSON file with proper UTF-8 encoding
 with open('phone_formats_e164.json', 'w', encoding='utf-8') as f:
-    json.dump(phone_format_data, f, indent=2, ensure_ascii=False)
+    json.dump(sorted_phone_format_data, f, indent=2, ensure_ascii=False)
 
 print("Phone format data has been written to 'phone_formats_e164.json' with UTF-8 encoding")
